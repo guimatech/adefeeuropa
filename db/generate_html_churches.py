@@ -63,16 +63,35 @@ def main():
             email = row.get('EmailIgreja', '').strip()
             pastor = row.get('Superintendente', '').strip()
             google_maps = row.get('GoogleMaps', '').strip()
-            
-            map_link = end_info.get('link', '').strip()
-            if not map_link:
-                if google_maps and google_maps != "0.000000, 0.000000" and google_maps != "0.000000,0.000000":
-                    map_link = f"https://www.google.com/maps/search/?api=1&query={google_maps.replace(' ', '')}"
-                else:
-                    map_link = ""
-                    
-            if not map_link and "http" in endereco_csv:
-                map_link = endereco_csv
+
+            # Build embed URL: use OpenStreetMap (free, no API key, no iframe block)
+            map_short_link = end_info.get('link', '').strip()
+            map_embed_url = ""
+            map_link = ""
+
+            if google_maps and google_maps not in ("0.000000, 0.000000", "0.000000,0.000000", ""):
+                try:
+                    parts = google_maps.replace(' ', '').split(',')
+                    lat = float(parts[0])
+                    lng = float(parts[1])
+                    delta = 0.008
+                    bbox = f"{lng-delta},{lat-delta},{lng+delta},{lat+delta}"
+                    map_embed_url = f"https://www.openstreetmap.org/export/embed.html?bbox={bbox}&layer=mapnik&marker={lat},{lng}"
+                    map_link = f"https://www.openstreetmap.org/?mlat={lat}&mlon={lng}#map=16/{lat}/{lng}"
+                except Exception:
+                    pass
+
+            if not map_embed_url and map_short_link:
+                map_link = map_short_link
+
+            if map_embed_url:
+                map_tag = f'''<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+\t\t<iframe src="{map_embed_url}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+\t</div>'''
+            elif map_link:
+                map_tag = f'\t\t<h4><a href="{map_link}" target="_blank">📍 Ver no mapa</a></h4>'
+            else:
+                map_tag = ""
                     
             end_display = end_info.get('endereco', '')
             if not end_display:
@@ -83,8 +102,27 @@ def main():
             
             pastores_text = "Pr. " + pastor if pastor and not pastor.startswith("Pr") else pastor
             
+            imagem_super = row.get('ImagemSuperintendente', '').strip()
+            img_tag = ""
+            if imagem_super:
+                img_tag = f'\t\t<img src="{imagem_super}" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />\n'
+
+            pastor_title = """<div class="mag-box-title the-global-title">
+\t\t\t<h3>Pastores</h3>
+\t\t</div>"""
+
+            contatos_title = """<div class="mag-box-title the-global-title">
+\t\t\t<h3>Contatos</h3>
+\t\t</div>"""
+
             html = f"""<div class="mag-box-container clearfix">
 \t<div class="entry clearfix">
+\t\t{pastor_title}
+{img_tag}
+\t\t<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+\t\t{pastores_text}</h4>
+\t\t<h3 style="text-align: center;">___</h3>
+\t\t{contatos_title}
 \t\t<h4><span style="color: #000000;"> ■ <strong>{igreja.upper()}</strong></span></h4>
 \t\t<h4>Endereço: {end_display}</h4>
 \t\t<h4>Código Postal: {cod_postal}</h4>
@@ -92,10 +130,7 @@ def main():
 \t\t{country_display}
 \t\t<h4>Tel.: {tel}</h4>
 \t\t<h4>E-mail: {email}</h4>
-\t\t<h3 style="text-align: center;">___</h3>
-\t\t<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-\t\t{pastores_text}</h4>
-\t\t<h4>onde estamos: {map_link}</h4>
+{map_tag}
 \t</div>
 </div>"""
             html_output.append(html)

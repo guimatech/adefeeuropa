@@ -1,5 +1,16 @@
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FToItvJvErx-%20Jucelio%20Leandro%20da%20Silva.Fotografia%20para%20perfil.165330.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Jucelio Leandro Da Silva</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE ALENQUER</strong></span></h4>
 		<h4>Endereço: Av. 25 de Abril 40A, 2580-373 Alenquer</h4>
 		<h4>Código Postal: 00000</h4>
@@ -7,15 +18,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351916696168</h4>
 		<h4>E-mail: alenquer@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Jucelio Leandro Da Silva</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/HCbFCDVEHaim39RU9?g_st=ic</h4>
+		<h4><a href="https://maps.app.goo.gl/HCbFCDVEHaim39RU9?g_st=ic" target="_blank">📍 Ver no mapa</a></h4>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F00CFEE61E7.Fotografia%20para%20perfil.191510.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Paulo Jose Souza Pinheiro</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE ALGUEIRÃO</strong></span></h4>
 		<h4>Endereço: Av. Marginal 8, 2725-397 Algueirão-Mem Martins</h4>
 		<h4>Código Postal: 2725-397</h4>
@@ -23,15 +42,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351960494621</h4>
 		<h4>E-mail: algueirao@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Paulo Jose Souza Pinheiro</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/dUYwJsBc4qjvjmDP8?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.349746,38.789742,-9.333746000000001,38.805742&layer=mapnik&marker=38.797742,-9.341746" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FW62fWgn9mo-%20Eliel%20Veras%20Oliveira.Fotografia%20para%20perfil.173150.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Eliel Veras Oliveira</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE ALHANDRA</strong></span></h4>
 		<h4>Endereço: R. Combatentes 06, 2600-427 Alhandra</h4>
 		<h4>Código Postal: 2600-427</h4>
@@ -39,15 +68,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351916696168</h4>
 		<h4>E-mail: alhandra@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Eliel Veras Oliveira</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/Pnvhb1SsWV2v1V4f7?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.019488999999998,38.921228,-9.003489,38.937228000000005&layer=mapnik&marker=38.929228,-9.011489" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F48ded7b5Jo%C3%A9sio.Fotografia%20para%20perfil.210508.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Joésio Barbosa De Souza</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE ALMEIRIM</strong></span></h4>
 		<h4>Endereço: R. das Faias 22, 2080-086 Almeirim</h4>
 		<h4>Código Postal: 2080-086</h4>
@@ -55,15 +94,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963090805</h4>
 		<h4>E-mail: almeirim@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Joésio Barbosa De Souza</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/v27oww19xZZybRDe8</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.636211999999999,39.202026999999994,-8.620212,39.218027&layer=mapnik&marker=39.210027,-8.628212" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F0076FCF103-%20Jackson%20Elias%20Pereira.Fotografia%20para%20perfil.174919.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Jackson Elias Pereira</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE ALVERCA</strong></span></h4>
 		<h4>Endereço: R. José António do Carmo 19, 2615-106 Alverca do Ribatejo</h4>
 		<h4>Código Postal: 2615-106</h4>
@@ -71,15 +120,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351961024820</h4>
 		<h4>E-mail: alverca@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Jackson Elias Pereira</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/PwNmbjorJx5yifDm8?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.047381,38.890511999999994,-9.031381000000001,38.906512&layer=mapnik&marker=38.898512,-9.039381" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F005A04E07D-%20Eliel%20Pereira%20Dos%20Santos%20Costa.Fotografia%20para%20perfil.210239.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Eliel Pereira Dos Santos Costa</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE AMÓS</strong></span></h4>
 		<h4>Endereço: R. Pinto Barreiro 62, 2580-489 Carregado</h4>
 		<h4>Código Postal: 2580-499</h4>
@@ -87,15 +146,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: amos@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Eliel Pereira Dos Santos Costa</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/3NVWqL6r9LJim1vD8?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.984575,39.014047,-8.968575000000001,39.030047&layer=mapnik&marker=39.022047,-8.976575" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FiNzppAAPZI.Fotografia%20para%20perfil.174439.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Hércules Freire Pires</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE ARRUDA DOS VINHOS</strong></span></h4>
 		<h4>Endereço: Recta da Fresca, 2630-240 Arruda dos Vinhos</h4>
 		<h4>Código Postal: 2630-240</h4>
@@ -103,15 +172,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: arrudadosvinhos@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Hércules Freire Pires</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/o9cVD3NGrf1AGSxP6?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.089027,38.986202,-9.073027000000002,39.002202000000004&layer=mapnik&marker=38.994202,-9.081027" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fcad743d4DioneBarreiraViana.Fotografia%20para%20perfil.194158.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Dione Barreira Viana Borges</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE ASSAFORA</strong></span></h4>
 		<h4>Endereço: ARMAZÉM NA ASSAFORA</h4>
 		<h4>Código Postal: 2705-459 SÃO JOÃO DAS LAMPAS</h4>
@@ -119,15 +198,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963321725</h4>
 		<h4>E-mail: assafora@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Dione Barreira Viana Borges</h4>
-		<h4>onde estamos: </h4>
+
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FESZLqmhjIV.Fotografia%20para%20perfil.164914.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Guilherme Rosa Miranda</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE AUBANGE</strong></span></h4>
 		<h4>Endereço: RUE DU VILLAGE 8A</h4>
 		<h4>Código Postal: 0</h4>
@@ -135,15 +222,25 @@
 		<h4>Belgium</h4>
 		<h4>Tel.: +352691140233</h4>
 		<h4>E-mail: aubange@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Guilherme Rosa Miranda</h4>
-		<h4>onde estamos: https://www.google.com/maps/search/?api=1&query=49.568881,5.805924</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=5.797924,49.560880999999995,5.813924,49.576881&layer=mapnik&marker=49.568881,5.805924" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F0023EB8563-%20Francisco%20Rocha%20Soares.Fotografia%20para%20perfil.162714.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Francisco Rocha Soares</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE AZAMBUJA</strong></span></h4>
 		<h4>Endereço: R. Prof. Dr. Egas Moniz 1A, 2050-312 Azambuja</h4>
 		<h4>Código Postal: 2050-312</h4>
@@ -151,15 +248,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: azambuja@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Francisco Rocha Soares</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/ZmLVJvnegc5TCnPo6?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.873265,39.062189999999994,-8.857265000000002,39.07819&layer=mapnik&marker=39.07019,-8.865265" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F7Op4iRmHcf.Fotografia%20para%20perfil.174851.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Nuno Ameixa</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE BAD KREUZNACH</strong></span></h4>
 		<h4>Endereço: Dürerstraße 21K, 55543 Bad Kreuznach, Alemanha</h4>
 		<h4>Código Postal: 55543</h4>
@@ -167,15 +274,25 @@
 		<h4>Germany</h4>
 		<h4>Tel.: +352691140233</h4>
 		<h4>E-mail: badkreuznach@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Nuno Ameixa</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/mt37kNAdH5ChCwP99</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=7.874284,49.834784,7.890284,49.850784000000004&layer=mapnik&marker=49.842784,7.882284" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FhkESG1TrXh-%20Efferson%20Santos.Fotografia%20para%20perfil.195510.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Efferson Santos</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE BARAKALDO</strong></span></h4>
 		<h4>Endereço: Retuerto Kalea, 58, 1 planta, 48903 San Vicente de Barakaldo, Biscay, Espanha</h4>
 		<h4>Código Postal: 48903</h4>
@@ -183,15 +300,25 @@
 		<h4>Spain</h4>
 		<h4>Tel.: +34614229615</h4>
 		<h4>E-mail: barakaldo@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Efferson Santos</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/VfjGXPAjaPWmgd3NA</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-3.013168,43.279512,-2.997168,43.295512&layer=mapnik&marker=43.287512,-3.005168" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F001EAEF78D-%20Jabson%20Gon%C3%A7alves%20Ferreira.Fotografia%20para%20perfil.161509.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Jabson Gonçalves Ferreira</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE BENAVENTE</strong></span></h4>
 		<h4>Endereço: Largo de Santo André 6, 2130-317 Benavente</h4>
 		<h4>Código Postal: 2135-066</h4>
@@ -199,15 +326,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: benavente@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Jabson Gonçalves Ferreira</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/dMC9pR2bwruTpmyC7?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.818772999999998,38.972497999999995,-8.802773,38.988498&layer=mapnik&marker=38.980498,-8.810773" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F5ba164caEdinso%20Gregorio.Fotografia%20para%20perfil.205347.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Edinso Yanez</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE BILBAO</strong></span></h4>
 		<h4>Endereço: Entrecanales Doctor Kalea, 8, 48002 Bilbo, Bizkaia</h4>
 		<h4>Código Postal: 48002</h4>
@@ -215,15 +352,25 @@
 		<h4>Spain</h4>
 		<h4>Tel.: +34606353658</h4>
 		<h4>E-mail: bilbao@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Edinso Yanez</h4>
-		<h4>onde estamos: https://www.google.com/maps/search/?api=1&query=43.254410,-2.946570</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-2.95457,43.24641,-2.93857,43.26241&layer=mapnik&marker=43.25441,-2.94657" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FMGKNeT1InO.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Illisnois Pérez Tamé</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE BOLUETA</strong></span></h4>
 		<h4>Endereço: Crt. Bilbao Galdakao, n2, 3 izq , edificio Bolueta, 48004, bilbao</h4>
 		<h4>Código Postal: 48004</h4>
@@ -231,15 +378,25 @@
 		<h4>Spain</h4>
 		<h4>Tel.: +34603353658</h4>
 		<h4>E-mail: bolueta@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Illisnois Pérez Tamé</h4>
-		<h4>onde estamos: https://www.google.com/maps/search/?api=1&query=43.247123,-2.909488</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-2.917488,43.239123,-2.901488,43.255123000000005&layer=mapnik&marker=43.247123,-2.909488" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F000FD90467-%20Azelina%20Cardoso%20Marinho%20Xavier.Fotografia%20para%20perfil.224018.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Azelina Cardoso Marinho Xavier</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE BOMBARRAL</strong></span></h4>
 		<h4>Endereço: R. do Comércio, 2540-076 Bombarral</h4>
 		<h4>Código Postal: 2540-110</h4>
@@ -247,15 +404,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351914020732</h4>
 		<h4>E-mail: bombarral@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Azelina Cardoso Marinho Xavier</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/JRiZ7YvgbnCXJaEf9</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.164715999999999,39.26124,-9.148716,39.277240000000006&layer=mapnik&marker=39.26924,-9.156716" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fcebb6defSandro.Fotografia%20para%20perfil.095510.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Sandro Gonçalves Menezes</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE BRAGA</strong></span></h4>
 		<h4>Endereço: R. da Quinta de Santa Maria 176, 4700-244 Braga</h4>
 		<h4>Código Postal: 4700-249</h4>
@@ -263,15 +430,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351927503536</h4>
 		<h4>E-mail: braga@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Sandro Gonçalves Menezes</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/2vjmjPTZPAYKnfAG8</h4>
+		<h4><a href="https://maps.app.goo.gl/2vjmjPTZPAYKnfAG8" target="_blank">📍 Ver no mapa</a></h4>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F7bddX9f7JOILSON.Fotografia%20para%20perfil.183351.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Joilson Conceicao De Oliveira</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE CALDAS DA RAINHA</strong></span></h4>
 		<h4>Endereço: Rua Doutor Augusto Saudade Silva, 1 Resto de Chão / Térreo, 2500-805 Caldas da Rainha</h4>
 		<h4>Código Postal: 2500-805</h4>
@@ -279,15 +454,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963389234</h4>
 		<h4>E-mail: caldasdarainha@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Joilson Conceicao De Oliveira</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/qax5rPdmbhqX6GjW8</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.148071,39.396409,-9.132071000000002,39.412409000000004&layer=mapnik&marker=39.404409,-9.140071" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F66bb69b2Diego.Fotografia%20para%20perfil.223219.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Diego Pinto De Souza</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE CARTAXO</strong></span></h4>
 		<h4>Endereço: 2070-125 Cartaxo</h4>
 		<h4>Código Postal: 2070-069</h4>
@@ -295,15 +480,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: cartaxo@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Diego Pinto De Souza</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/Rz6rhoSm9gkuxVu26</h4>
+		<h4><a href="https://maps.app.goo.gl/Rz6rhoSm9gkuxVu26" target="_blank">📍 Ver no mapa</a></h4>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F4f067440Tiago.Fotografia%20para%20perfil.235155.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Tiago Pereira Da Silva</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE CATUJAL</strong></span></h4>
 		<h4>Endereço: R. José Gomes Ferreira 72, 2680-352 Unhos</h4>
 		<h4>Código Postal: 2680-352</h4>
@@ -311,15 +504,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: catujal@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Tiago Pereira Da Silva</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/DxXPhiQU3M8yCxtHA?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.138257999999999,38.80039,-9.122258,38.816390000000006&layer=mapnik&marker=38.80839,-9.130258" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F9da48483Adilson%20Tavares%20de.Fotografia%20para%20perfil.171741.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Tavares De Adilson Vasconcelos</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE CORUCHE</strong></span></h4>
 		<h4>Endereço: Av. Luís de Camões 19, 2100-102 Coruche</h4>
 		<h4>Código Postal: 2100-102</h4>
@@ -327,15 +530,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351924386574</h4>
 		<h4>E-mail: coruche@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Tavares De Adilson Vasconcelos</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/JuoM6MGMs6htbX3k7?g_st=ic</h4>
+		<h4><a href="https://maps.app.goo.gl/JuoM6MGMs6htbX3k7?g_st=ic" target="_blank">📍 Ver no mapa</a></h4>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F007V414900-%20Vilmar%20Garcia%20Couto.Fotografia%20para%20perfil.131944.png" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Vilmar Garcia Couto</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE DURANGO</strong></span></h4>
 		<h4>Endereço: Polígono Industrial de Industrial de Mallabiena, 13, 48215 Iurreta, Biscay, Espanha</h4>
 		<h4>Código Postal: 48215</h4>
@@ -343,15 +554,25 @@
 		<h4>Spain</h4>
 		<h4>Tel.: +34606353658</h4>
 		<h4>E-mail: durango@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Vilmar Garcia Couto</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/25L48QVzuTMpugmR7</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-2.656409,43.172467,-2.640409,43.188467&layer=mapnik&marker=43.180467,-2.648409" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F007A971372-%20Abrah%C3%A1n%20Robson%20Ferreira%20Santos.Fotografia%20para%20perfil.015254.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Vilmar Garcia Couto</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE ELORRIO</strong></span></h4>
 		<h4>Endereço: Urkizuaran Kalea, 5, 48230 Elorrio, Bizkaia, Espanha</h4>
 		<h4>Código Postal: 48230</h4>
@@ -359,15 +580,25 @@
 		<h4>Spain</h4>
 		<h4>Tel.: +34606353658</h4>
 		<h4>E-mail: elorrio@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Vilmar Garcia Couto</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/C8xCptgmHqcTwshV9</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-2.547225,43.119569999999996,-2.531225,43.13557&layer=mapnik&marker=43.12757,-2.539225" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F557PIBQbqG.Fotografia%20para%20perfil.171930.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Wagner Luiz Bento</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE FARO</strong></span></h4>
 		<h4>Endereço: Estr. da Sra. da Saude, 8000-500 Faro</h4>
 		<h4>Código Postal: 8000-000</h4>
@@ -375,15 +606,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351914058750</h4>
 		<h4>E-mail: faro@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Wagner Luiz Bento</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/RWnmQR6ZKMvBCRA97</h4>
+		<h4><a href="https://maps.app.goo.gl/RWnmQR6ZKMvBCRA97" target="_blank">📍 Ver no mapa</a></h4>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F002FEA886D-%20Alfredo%20Indiveri.Fotografia%20para%20perfil.164955.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Alfredo Indiveri</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE FRANÇA</strong></span></h4>
 		<h4>Endereço: 61 rue De Lagrange – 57100 Manom, França</h4>
 		<h4>Código Postal: 57100</h4>
@@ -391,15 +630,23 @@
 		<h4>France</h4>
 		<h4>Tel.: +33744768182</h4>
 		<h4>E-mail: france@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Alfredo Indiveri</h4>
-		<h4>onde estamos: </h4>
+
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FZB4NveLEXR.Fotografia%20para%20perfil.172853.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Itamar Cleriston De Macedo E Souza</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE FUNDÃO</strong></span></h4>
 		<h4>Endereço: R. Cidade da Covilhã 13, 6230-339 Fundão</h4>
 		<h4>Código Postal: 6230-346</h4>
@@ -407,15 +654,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: 963 920 744</h4>
 		<h4>E-mail: fundao@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Itamar Cleriston De Macedo E Souza</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/VLLGpf2EmCBu2MJd8</h4>
+		<h4><a href="https://maps.app.goo.gl/VLLGpf2EmCBu2MJd8" target="_blank">📍 Ver no mapa</a></h4>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fb42a3a53Agnelson.Fotografia%20para%20perfil.003202.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Agnelson De Oliveira Santos</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE GUIMARÃES</strong></span></h4>
 		<h4>Endereço: R. do Paço, 4805-299 Guimarães</h4>
 		<h4>Código Postal: 4805-299</h4>
@@ -423,15 +678,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351931180202</h4>
 		<h4>E-mail: guimaraes@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Agnelson De Oliveira Santos</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/4PmyBX4z5KyhbMuWA</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.330271,41.458614,-8.314271000000002,41.474614&layer=mapnik&marker=41.466614,-8.322271" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F007A971372-%20Abrah%C3%A1n%20Robson%20Ferreira%20Santos.Fotografia%20para%20perfil.015254.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Robson Ferreira Santos</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE GUINEA-BISSAU</strong></span></h4>
 		<h4>Endereço: Estrada Granja de Pessube. Ref. Ao lado do prédio A. Lopes,perto da TGB televisão de Guiné Bissau</h4>
 		<h4>Código Postal: 0000</h4>
@@ -439,15 +704,25 @@
 		<h4>Guinea-Bisáu</h4>
 		<h4>Tel.: +245955191025</h4>
 		<h4>E-mail: guinea-bissau@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Robson Ferreira Santos</h4>
-		<h4>onde estamos: https://www.google.com/maps/search/?api=1&query=-15.5976700,11.8635700</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.85557,-15.60567,11.871569999999998,-15.589670000000002&layer=mapnik&marker=-15.59767,11.86357" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F4a9096c9Josenildo%20Souza%20de%20Jesus.Fotografia%20para%20perfil.175529.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Josenildo Souza De Jesus</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE IRÚN</strong></span></h4>
 		<h4>Endereço: Aduana Kalea, 27, 20302 Irun, Gipuzkoa, Espanha</h4>
 		<h4>Código Postal: 20302</h4>
@@ -455,15 +730,25 @@
 		<h4>Spain</h4>
 		<h4>Tel.: +34606353658</h4>
 		<h4>E-mail: irun@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Josenildo Souza De Jesus</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/VwpA4s3B1PVRkBDj6</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-1.805901,43.33047,-1.789901,43.346470000000004&layer=mapnik&marker=43.33847,-1.797901" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fp3W1kwwUVM-%20Jonatas%20Lemos.Fotografia%20para%20perfil.120318.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Jonatas Da Rocha Lemos</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE KAYL</strong></span></h4>
 		<h4>Endereço: 31 Grand-Rue, 3650 Kayl, Luxemburgo</h4>
 		<h4>Código Postal: Atualizar</h4>
@@ -471,15 +756,23 @@
 		<h4>Luxembourg</h4>
 		<h4>Tel.: +352691140233</h4>
 		<h4>E-mail: kayl@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Jonatas Da Rocha Lemos</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/vGpDLhmrgnHriofCA</h4>
+		<h4><a href="https://maps.app.goo.gl/vGpDLhmrgnHriofCA" target="_blank">📍 Ver no mapa</a></h4>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fdg6ZPwOzRv.Fotografia%20para%20perfil.100403.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Fábio Duarte</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE LEIRIA</strong></span></h4>
 		<h4>Endereço: R. da Carreira de Tiro 262, 2415-598 Leiria</h4>
 		<h4>Código Postal: 2415-592</h4>
@@ -487,15 +780,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351928034587</h4>
 		<h4>E-mail: leiria@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Fábio Duarte</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/TCVuuBLJfKNokGZ29</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.826903,39.754863,-8.810903000000001,39.770863000000006&layer=mapnik&marker=39.762863,-8.818903" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F557PIBQbqG.Fotografia%20para%20perfil.171930.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Wagner Luiz Bento</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE LOULÉ</strong></span></h4>
 		<h4>Endereço: R. de Nossa Sra. de Fátima 191, 8100-557 Loulé</h4>
 		<h4>Código Postal: 8125-003</h4>
@@ -503,15 +806,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: loule@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Wagner Luiz Bento</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/QoyDnfiiSVHXZFy1A</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.107289999999999,37.064729,-8.09129,37.080729000000005&layer=mapnik&marker=37.072729,-8.09929" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F0009E39DB3-%20Carlos%20Henrrique.Fotografia%20para%20perfil.225301.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Carlos Henrique Oliveira Soares</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE LOURINHÃ</strong></span></h4>
 		<h4>Endereço: R. Miguel Bombarda 26, 2530-161 Lourinhã</h4>
 		<h4>Código Postal: 2530-161</h4>
@@ -519,15 +832,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963090805</h4>
 		<h4>E-mail: lourinha@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Carlos Henrique Oliveira Soares</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/2evtngszscSidbN97</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.319580299999998,39.2337176,-9.3035803,39.249717600000004&layer=mapnik&marker=39.2417176,-9.3115803" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F18735697Rubeval.Fotografia%20para%20perfil.151850.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Rubeval Araujo Lourenço</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE MARINHA GRANDE</strong></span></h4>
 		<h4>Endereço: R. Alves Redol 2, 2430-107 Marinha Grande</h4>
 		<h4>Código Postal: 2430-107</h4>
@@ -535,15 +858,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351962227840</h4>
 		<h4>E-mail: marinhagrande@adefeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Rubeval Araujo Lourenço</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/ZMtxHhs2MVZBHt9q8</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.926789999999999,39.74283,-8.91079,39.75883&layer=mapnik&marker=39.75083,-8.91879" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F00A258941E-%20Marcos%20Ant%C3%B4nio%20Ven%C3%A2ncio.Fotografia%20para%20perfil.173758.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Marcos Antônio Venancio</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE MEM MARTINS</strong></span></h4>
 		<h4>Endereço: Largo Artur Soares Ribeiro 1, 2725-229 Algueirão-Mem Martins</h4>
 		<h4>Código Postal: 2725-229</h4>
@@ -551,15 +884,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351960494621</h4>
 		<h4>E-mail: memmartins@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Marcos Antônio Venancio</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/Ut9YErHK6nNuFhh39?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.209983,38.467602,-9.193983000000001,38.483602000000005&layer=mapnik&marker=38.475602,-9.201983" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fd3da38ddMILTON.Fotografia%20para%20perfil.212410.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Milton Cesar Eduardo Siqueira</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE MIRANDA DO DOURO</strong></span></h4>
 		<h4>Endereço: RUA DE JOSÉ INÁCIO PINTO, N. 11, MIRANDA DO DOURO (5210-204)</h4>
 		<h4>Código Postal: 5210-204</h4>
@@ -567,15 +910,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351931180202</h4>
 		<h4>E-mail: mirandadodouro@adefeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Milton Cesar Eduardo Siqueira</h4>
-		<h4>onde estamos: https://www.google.com/maps/search/?api=1&query=41.499972,-6.270777</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-6.278777,41.491972,-6.262777,41.507972&layer=mapnik&marker=41.499972,-6.270777" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fee457e4eThiagoPortela.Fotografia%20para%20perfil.213745.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Thiago Portela Medeiros</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE MONTIJO</strong></span></h4>
 		<h4>Endereço: R. José Joaquim Marques 40 A, 2870-362 Montijo</h4>
 		<h4>Código Postal: 2870-362</h4>
@@ -583,15 +936,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351926893432</h4>
 		<h4>E-mail: montijo@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Thiago Portela Medeiros</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/QS3EYryRUkM1gT269?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.98031619226031,38.69647734138349,-8.964316192260311,38.7124773413835&layer=mapnik&marker=38.704477341383495,-8.97231619226031" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fe5ec35ecAntonilson.Fotografia%20para%20perfil.014345.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Apolo Antoni Almeida</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE ODIVELAS</strong></span></h4>
 		<h4>Endereço: Rua Major João Luís de Moura, Armazéns B, 1685-253 Famões</h4>
 		<h4>Código Postal: 1685-253</h4>
@@ -599,15 +962,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351961583902</h4>
 		<h4>E-mail: odivelas@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Apolo Antoni Almeida</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/2eFgu7vtUGNwBhvj8?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.216349999999998,38.778686,-9.20035,38.794686000000006&layer=mapnik&marker=38.786686,-9.20835" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F91fc4d59Alessandro%20Ricardo.Fotografia%20para%20perfil.225701.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Alessandro Ricardo Bergamo</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE PENICHE</strong></span></h4>
 		<h4>Endereço: Av. do Porto de Pesca, 2520-208 Peniche</h4>
 		<h4>Código Postal: 2520-348</h4>
@@ -615,15 +988,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: peniche@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Alessandro Ricardo Bergamo</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/EeizR8TQ63dq2zYj9</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.396332999999998,39.352,-9.380333,39.368&layer=mapnik&marker=39.36,-9.388333" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F6faccbebDavid.Fotografia%20para%20perfil.231742.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. David Rodrigues Vieira</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE PORTO ALTO</strong></span></h4>
 		<h4>Endereço: Av. Nações Unidas, Porto Alto, 2135-197 Samora Correia</h4>
 		<h4>Código Postal: 2135-196</h4>
@@ -631,15 +1014,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: portoalto@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. David Rodrigues Vieira</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/W4qjSm68Lg9Pyv5d7?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.879487,38.910936,-8.863487000000001,38.926936000000005&layer=mapnik&marker=38.918936,-8.871487" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FNtg8iPXMLj-%20Jaime%20do%20Esp%C3%ADrito%20Santo.Fotografia%20para%20perfil.173234.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Jaime Do Espírito Santo</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE RIO DE MOURO</strong></span></h4>
 		<h4>Endereço: Av. de Santa Isabel 91, 2635-047 Rio de Mouro</h4>
 		<h4>Código Postal: 2635-047</h4>
@@ -647,15 +1040,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351938621980</h4>
 		<h4>E-mail: riodemouro@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Jaime Do Espírito Santo</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/9drL4Ch3hyXhFgpd9?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.352378,38.7472,-9.336378000000002,38.763200000000005&layer=mapnik&marker=38.7552,-9.344378" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F836e9dadEdson%20Cerqueira.Fotografia%20para%20perfil.203107.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Edson Cerqueira De Lemos Junior</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE SALVATERRA</strong></span></h4>
 		<h4>Endereço: Av. Dr. Roberto Ferreira Fonseca, 2120-117 Salvaterra de Magos</h4>
 		<h4>Código Postal: 2120-115</h4>
@@ -663,15 +1066,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351964176507</h4>
 		<h4>E-mail: salvaterra@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Edson Cerqueira De Lemos Junior</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/pZZBy6N8HBNUek2V8?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.80149,39.019656999999995,-8.785490000000001,39.035657&layer=mapnik&marker=39.027657,-8.79349" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F0019231D9A-%20Jo%C3%A3o%20%C3%81quila%20Lima%20dos%20Santos.Fotografia%20para%20perfil.192116.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. João Áquila Lima Dos Santos</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE SANTARÉM</strong></span></h4>
 		<h4>Endereço: R. Alexandre Herculano 17, 2005-246 Santarém</h4>
 		<h4>Código Postal: 2005-2460</h4>
@@ -679,15 +1092,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920745</h4>
 		<h4>E-mail: santarem@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. João Áquila Lima Dos Santos</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/rhLToDPEvUGJohXaA</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.695274,39.230942,-8.679274000000001,39.246942000000004&layer=mapnik&marker=39.238942,-8.687274" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F3551fa4fDavid%20Alves%20Rodrigues.Fotografia%20para%20perfil.191027.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. David Alves Rodrigues</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE SANTO ESTÊVÃO</strong></span></h4>
 		<h4>Endereço: Rua Manuel Martins Alves nº16</h4>
 		<h4>Código Postal: 000</h4>
@@ -695,15 +1118,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351914579674</h4>
 		<h4>E-mail: santoestevao@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. David Alves Rodrigues</h4>
-		<h4>onde estamos: </h4>
+
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fn2ldFwHJb9.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Sanzio Elmo Sousa Soares</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE SEDE_CENTRAL</strong></span></h4>
 		<h4>Endereço: N1 237, 2600-214 Vila Franca de Xira</h4>
 		<h4>Código Postal: 2600-214</h4>
@@ -711,15 +1142,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351963920744</h4>
 		<h4>E-mail: vilafrancadexira@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Sanzio Elmo Sousa Soares</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/2e4fCfd1WXN1ae9LA?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.989728999999999,38.958067,-8.973729,38.974067000000005&layer=mapnik&marker=38.966067,-8.981729" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FW81Bh9cQ5A.Fotografia%20para%20perfil.173020.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Celso Gomes Santos</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE SEIXAL</strong></span></h4>
 		<h4>Endereço: Av. 1º de Maio 64, 2845-604 Amora</h4>
 		<h4>Código Postal: 2845-604</h4>
@@ -727,15 +1168,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351925305137</h4>
 		<h4>E-mail: seixal@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Celso Gomes Santos</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/6cpAreYxwcM2eBu46?g_st=ic</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-9.119909999999999,38.609151999999995,-9.10391,38.625152&layer=mapnik&marker=38.617152,-9.11191" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F39a98ff0Milton%20Silva.Fotografia%20para%20perfil.211214.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Milton Silva</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE STEINSEL</strong></span></h4>
 		<h4>Endereço: 50 Rue des Prés, 7333 Steinsel</h4>
 		<h4>Código Postal: 7333</h4>
@@ -743,15 +1194,25 @@
 		<h4>Luxembourg</h4>
 		<h4>Tel.: +352691140233</h4>
 		<h4>E-mail: steinsel@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Milton Silva</h4>
-		<h4>onde estamos: https://www.google.com/maps/search/?api=1&query=49.672864,6.126717</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=6.118717,49.664863999999994,6.134717,49.680864&layer=mapnik&marker=49.672864,6.126717" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2F0009E39DB3-%20Carlos%20Henrrique.Fotografia%20para%20perfil.225301.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Carlos Henrique Oliveira Soares</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE TORRES VEDRAS</strong></span></h4>
 		<h4>Endereço: R. Dias Neiva RC esquerdo, 2560-319 Torres Vedras</h4>
 		<h4>Código Postal: 2560-319</h4>
@@ -759,15 +1220,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351927517984</h4>
 		<h4>E-mail: torresvedras@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Carlos Henrique Oliveira Soares</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/Cabzpp3EgWExQH797</h4>
+		<h4><a href="https://maps.app.goo.gl/Cabzpp3EgWExQH797" target="_blank">📍 Ver no mapa</a></h4>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Ff4fdf159DANIEL.Fotografia%20para%20perfil.225732.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Daniel Da Silva Simas</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE TROFA</strong></span></h4>
 		<h4>Endereço: AVENIDA DE PARADELA, N° 297, TROFA</h4>
 		<h4>Código Postal: 4785-248</h4>
@@ -775,15 +1244,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351931180202</h4>
 		<h4>E-mail: trofa@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Daniel Da Silva Simas</h4>
-		<h4>onde estamos: </h4>
+
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FuXqM2qNDCz.Fotografia%20para%20perfil.223536.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Thiago Da Silva Dos Santos</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE VILA DAS AVES</strong></span></h4>
 		<h4>Endereço: R. Dom Nuno Álvares Pereira, 4795-059 Vila das Aves</h4>
 		<h4>Código Postal: 4795-059</h4>
@@ -791,15 +1268,23 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351931180202</h4>
 		<h4>E-mail: viladasaves@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Thiago Da Silva Dos Santos</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/mzqfmKTJRgRuuxQS8</h4>
+		<h4><a href="https://maps.app.goo.gl/mzqfmKTJRgRuuxQS8" target="_blank">📍 Ver no mapa</a></h4>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2FuXqM2qNDCz.Fotografia%20para%20perfil.223536.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Thiago Da Silva Dos Santos</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE VILA NOVA DE GAIA</strong></span></h4>
 		<h4>Endereço: R. Emissor 172, 4400-436 Canidelo</h4>
 		<h4>Código Postal: 4400-436</h4>
@@ -807,15 +1292,25 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351931180202</h4>
 		<h4>E-mail: vilanovadegaia@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Thiago Da Silva Dos Santos</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/XHMM4WHTKJuB9CWu7</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-8.654739999999999,41.125318,-8.63874,41.141318000000005&layer=mapnik&marker=41.133318,-8.64674" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
 
 <div class="mag-box-container clearfix">
 	<div class="entry clearfix">
+		<div class="mag-box-title the-global-title">
+			<h3>Pastores</h3>
+		</div>
+		<img src="https://www.appsheet.com/template/gettablefileurl?appName=SGFAE-SystemManagementFinanceandPeopleofADEFEEUROPA-4463353&tableName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA&fileName=Cadastro%20Geral%20de%20Membros%20e%20Obreiros%20Fi%C3%A9is%20da%20ADEFE%20EUROPA_Images%2Fea63d121Gelciney.Fotografia%20para%20perfil.091558.jpg" alt="Superintendente" style="width: 100%; height: auto; display: block; margin-bottom: 10px;" />
+
+		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
+		Pr. Gelciney Silvério</h4>
+		<h3 style="text-align: center;">___</h3>
+		<div class="mag-box-title the-global-title">
+			<h3>Contatos</h3>
+		</div>
 		<h4><span style="color: #000000;"> ■ <strong>ADEFE VISEU</strong></span></h4>
 		<h4>Endereço: R. 21 de Agosto 101, 3510-120 Viseu</h4>
 		<h4>Código Postal: 3510-120</h4>
@@ -823,9 +1318,8 @@
 		<h4>Portugal</h4>
 		<h4>Tel.: +351931180202</h4>
 		<h4>E-mail: viseu@adefeeuropa.com</h4>
-		<h3 style="text-align: center;">___</h3>
-		<h4><span style="color: #000000;">■ <strong>PASTORES</strong></span><br>
-		Pr. Gelciney Silvério</h4>
-		<h4>onde estamos: https://maps.app.goo.gl/hSGg7vHTaQfiE6p89</h4>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 10px;">
+		<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-7.924736,40.651281999999995,-7.908736,40.667282&layer=mapnik&marker=40.659282,-7.916736" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+	</div>
 	</div>
 </div>
