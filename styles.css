@@ -91,8 +91,11 @@ p, li, a, span, label, input, textarea, select, button {
     -webkit-text-fill-color: transparent;
     background-clip: text;
     font-weight: 900;
-    -webkit-text-stroke: 2px #002266;
     font-size: clamp(1.9rem, 4.8vw, 3.8rem);
+}
+
+.hero-text-block .highlight {
+    -webkit-text-stroke: 2px #002266;
 }
 
 .hero-text-block .hero-subtitle {
